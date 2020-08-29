@@ -19,6 +19,6 @@ The content of my tutorials are:
 
 **1. Basic data types in python:** Please go through the **datatypes.ipynb** file to see the details.
 
-**2. Built-in Pyhton Functions and loops:** The go through the basic built in functions and loops in python 
+**2. Built-in Pyhton Functions and loops:** Please go through the file **builtinfunctiosandloops.ipynb** to see most useful built in functions and loops in python. 
 
 

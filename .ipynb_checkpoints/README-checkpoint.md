@@ -3,7 +3,7 @@
 Python is an interpreted, high-level, general-purpose programming language. It is open-source and available for installation to almost all OS platforms. Because of it's simplicity and accessibility, it is widely used by researchers, data scientists, web-developers, students and many more. The language itself was born almost 30 years ago. It has vast documentation, tutorials and huge community support. There are hundreds of libraries available for scientific computing, data analysis, plotting, machine learning, automation, electronics simulation, FDTD, 3D design and much more.
 
 ## Installation
-Pyhton now a days comes pre-installed with all major operating system Windows, MacOS and Linux. If your OS does not have python interpreter which you can check by running "python" in the Linux or Mac terminal or in commandline for windows, you can install it from [here](https://www.python.org/downloads/). You can use popular IDE's such as PyCharm, Spyder, Visual Studio Code, Atom etc for intelligent and fast development. 
+Python now a days comes pre-installed with all major operating system Windows, MacOS and Linux. If your OS does not have python interpreter which you can check by running "python" in the Linux or Mac terminal or in commandline for windows, you can install it from [here](https://www.python.org/downloads/). You can use popular IDE's such as PyCharm, Spyder, Visual Studio Code, Atom etc for intelligent and fast development. 
 
 I would personally recommend you to use [CONDA](https://docs.conda.io/en/latest/) package and enviroment manager for programming and development in python or any other language. It automaticall updates and manages thousands of packages with just a single command. It also separates your working enviroment from test enviroments. You can even create different test enviroment with diffterent versions of python and it automatically manages all dependencies and does not break your system.   
 
@@ -19,6 +19,6 @@ The content of my tutorials are:
 
 **1. Basic data types in python:** Please go through the **datatypes.ipynb** file to see the details.
 
-**2. Built-in Pyhton Functions and loops:** Please go through the file **builtinfunctiosandloops.ipynb** to see most useful built in functions and loops in python. 
+**2. Built-in Python Functions and loops:** Please go through the file **builtinfunctiosandloops.ipynb** to see most useful built in functions and loops in python. 
 
 
